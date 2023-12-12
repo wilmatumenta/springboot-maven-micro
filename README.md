@@ -1,5 +1,5 @@
-This code fis from https://github.com/Shikhar82/springboot-maven-micro
-update the dockerfile tjat is java:8 to java:11
+This code is from ['Shikhar82'](https://github.com/Shikhar82/springboot-maven-micro)
+update the dockerfile from java:8 to java:11
 
 using this code to create a CICD pipeline
 - Maven for code build
